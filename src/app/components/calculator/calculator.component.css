@@ -1,0 +1,21 @@
+.card{
+    box-radius: 20px;
+    box-shadow:  0 4px 8px chartreuse;
+    border-block-style: solid;
+    border-block-width: 10px;
+    border-bottom-color: rgb(228, 15, 122);
+    border-top-color: rgb(228, 15, 122);
+    border-right-color: rgb(228, 15, 122);
+    border-left-color: rgb(228, 15, 122);
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.form-control {
+    font-size: 2pc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
